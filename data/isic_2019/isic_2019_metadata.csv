@@ -1,0 +1,181 @@
+img_id,diagnostic,age,sex,anatom_site_predominance
+ISIC_2000000.jpg,BCC,75.0,male,anterior torso
+ISIC_2000001.jpg,SCC,75.0,male,anterior torso
+ISIC_2000002.jpg,ACK,65.0,female,anterior torso
+ISIC_2000003.jpg,SEK,40.0,female,lower extremity
+ISIC_2000004.jpg,MEL,65.0,female,lower extremity
+ISIC_2000005.jpg,NEV,45.0,male,anterior torso
+ISIC_2000006.jpg,BCC,60.0,male,head/neck
+ISIC_2000007.jpg,SCC,65.0,male,head/neck
+ISIC_2000008.jpg,ACK,75.0,female,anterior torso
+ISIC_2000009.jpg,SEK,45.0,female,lower extremity
+ISIC_2000010.jpg,MEL,45.0,female,posterior torso
+ISIC_2000011.jpg,NEV,30.0,male,lower extremity
+ISIC_2000012.jpg,BCC,60.0,female,head/neck
+ISIC_2000013.jpg,SCC,65.0,male,anterior torso
+ISIC_2000014.jpg,ACK,60.0,female,anterior torso
+ISIC_2000015.jpg,SEK,45.0,male,lower extremity
+ISIC_2000016.jpg,MEL,60.0,female,posterior torso
+ISIC_2000017.jpg,NEV,40.0,male,upper extremity
+ISIC_2000018.jpg,BCC,65.0,female,anterior torso
+ISIC_2000019.jpg,SCC,65.0,female,head/neck
+ISIC_2000020.jpg,ACK,80.0,male,anterior torso
+ISIC_2000021.jpg,SEK,50.0,male,anterior torso
+ISIC_2000022.jpg,MEL,50.0,male,posterior torso
+ISIC_2000023.jpg,NEV,30.0,male,upper extremity
+ISIC_2000024.jpg,BCC,75.0,male,anterior torso
+ISIC_2000025.jpg,SCC,70.0,male,anterior torso
+ISIC_2000026.jpg,ACK,70.0,male,head/neck
+ISIC_2000027.jpg,SEK,30.0,male,anterior torso
+ISIC_2000028.jpg,MEL,65.0,female,posterior torso
+ISIC_2000029.jpg,NEV,45.0,female,anterior torso
+ISIC_2000030.jpg,BCC,65.0,male,head/neck
+ISIC_2000031.jpg,SCC,60.0,male,head/neck
+ISIC_2000032.jpg,ACK,75.0,female,anterior torso
+ISIC_2000033.jpg,SEK,35.0,female,lower extremity
+ISIC_2000034.jpg,MEL,45.0,male,posterior torso
+ISIC_2000035.jpg,NEV,35.0,female,anterior torso
+ISIC_2000036.jpg,BCC,70.0,male,head/neck
+ISIC_2000037.jpg,SCC,70.0,male,anterior torso
+ISIC_2000038.jpg,ACK,60.0,male,head/neck
+ISIC_2000039.jpg,SEK,50.0,male,lower extremity
+ISIC_2000040.jpg,MEL,50.0,male,posterior torso
+ISIC_2000041.jpg,NEV,40.0,male,upper extremity
+ISIC_2000042.jpg,BCC,60.0,male,anterior torso
+ISIC_2000043.jpg,SCC,80.0,male,anterior torso
+ISIC_2000044.jpg,ACK,75.0,male,head/neck
+ISIC_2000045.jpg,SEK,50.0,male,anterior torso
+ISIC_2000046.jpg,MEL,50.0,male,lower extremity
+ISIC_2000047.jpg,NEV,50.0,female,upper extremity
+ISIC_2000048.jpg,BCC,75.0,female,head/neck
+ISIC_2000049.jpg,SCC,75.0,male,anterior torso
+ISIC_2000050.jpg,ACK,65.0,female,anterior torso
+ISIC_2000051.jpg,SEK,30.0,male,anterior torso
+ISIC_2000052.jpg,MEL,50.0,male,lower extremity
+ISIC_2000053.jpg,NEV,45.0,female,anterior torso
+ISIC_2000054.jpg,BCC,60.0,male,anterior torso
+ISIC_2000055.jpg,SCC,65.0,female,anterior torso
+ISIC_2000056.jpg,ACK,75.0,female,anterior torso
+ISIC_2000057.jpg,SEK,40.0,male,anterior torso
+ISIC_2000058.jpg,MEL,65.0,male,lower extremity
+ISIC_2000059.jpg,NEV,40.0,male,lower extremity
+ISIC_2000060.jpg,BCC,60.0,female,anterior torso
+ISIC_2000061.jpg,SCC,60.0,female,head/neck
+ISIC_2000062.jpg,ACK,60.0,female,anterior torso
+ISIC_2000063.jpg,SEK,30.0,male,upper extremity
+ISIC_2000064.jpg,MEL,65.0,male,lower extremity
+ISIC_2000065.jpg,NEV,40.0,male,lower extremity
+ISIC_2000066.jpg,BCC,75.0,female,anterior torso
+ISIC_2000067.jpg,SCC,70.0,female,anterior torso
+ISIC_2000068.jpg,ACK,65.0,male,anterior torso
+ISIC_2000069.jpg,SEK,50.0,female,anterior torso
+ISIC_2000070.jpg,MEL,55.0,male,posterior torso
+ISIC_2000071.jpg,NEV,30.0,male,lower extremity
+ISIC_2000072.jpg,BCC,75.0,female,head/neck
+ISIC_2000073.jpg,SCC,70.0,female,anterior torso
+ISIC_2000074.jpg,ACK,60.0,male,head/neck
+ISIC_2000075.jpg,SEK,45.0,male,anterior torso
+ISIC_2000076.jpg,MEL,45.0,male,posterior torso
+ISIC_2000077.jpg,NEV,50.0,male,upper extremity
+ISIC_2000078.jpg,BCC,65.0,male,anterior torso
+ISIC_2000079.jpg,SCC,60.0,male,anterior torso
+ISIC_2000080.jpg,ACK,60.0,female,anterior torso
+ISIC_2000081.jpg,SEK,50.0,female,anterior torso
+ISIC_2000082.jpg,MEL,60.0,male,lower extremity
+ISIC_2000083.jpg,NEV,30.0,male,anterior torso
+ISIC_2000084.jpg,BCC,70.0,male,anterior torso
+ISIC_2000085.jpg,SCC,65.0,male,head/neck
+ISIC_2000086.jpg,ACK,75.0,male,anterior torso
+ISIC_2000087.jpg,SEK,30.0,male,anterior torso
+ISIC_2000088.jpg,MEL,45.0,female,posterior torso
+ISIC_2000089.jpg,NEV,35.0,male,anterior torso
+ISIC_2000090.jpg,BCC,75.0,male,head/neck
+ISIC_2000091.jpg,SCC,65.0,female,anterior torso
+ISIC_2000092.jpg,ACK,65.0,female,head/neck
+ISIC_2000093.jpg,SEK,50.0,male,anterior torso
+ISIC_2000094.jpg,MEL,65.0,female,posterior torso
+ISIC_2000095.jpg,NEV,45.0,male,lower extremity
+ISIC_2000096.jpg,BCC,70.0,male,head/neck
+ISIC_2000097.jpg,SCC,75.0,female,anterior torso
+ISIC_2000098.jpg,ACK,80.0,female,head/neck
+ISIC_2000099.jpg,SEK,50.0,female,lower extremity
+ISIC_2000100.jpg,MEL,50.0,female,posterior torso
+ISIC_2000101.jpg,NEV,40.0,male,upper extremity
+ISIC_2000102.jpg,BCC,75.0,male,head/neck
+ISIC_2000103.jpg,SCC,70.0,female,head/neck
+ISIC_2000104.jpg,ACK,70.0,male,head/neck
+ISIC_2000105.jpg,SEK,35.0,female,upper extremity
+ISIC_2000106.jpg,MEL,50.0,female,posterior torso
+ISIC_2000107.jpg,NEV,50.0,female,anterior torso
+ISIC_2000108.jpg,BCC,70.0,male,anterior torso
+ISIC_2000109.jpg,SCC,60.0,female,anterior torso
+ISIC_2000110.jpg,ACK,80.0,female,anterior torso
+ISIC_2000111.jpg,SEK,35.0,male,anterior torso
+ISIC_2000112.jpg,MEL,45.0,female,lower extremity
+ISIC_2000113.jpg,NEV,50.0,male,lower extremity
+ISIC_2000114.jpg,BCC,70.0,male,head/neck
+ISIC_2000115.jpg,SCC,75.0,male,head/neck
+ISIC_2000116.jpg,ACK,60.0,male,head/neck
+ISIC_2000117.jpg,SEK,30.0,male,lower extremity
+ISIC_2000118.jpg,MEL,50.0,female,lower extremity
+ISIC_2000119.jpg,NEV,40.0,male,upper extremity
+ISIC_2000120.jpg,BCC,65.0,female,head/neck
+ISIC_2000121.jpg,SCC,70.0,female,head/neck
+ISIC_2000122.jpg,ACK,70.0,male,anterior torso
+ISIC_2000123.jpg,SEK,35.0,male,lower extremity
+ISIC_2000124.jpg,MEL,60.0,male,posterior torso
+ISIC_2000125.jpg,NEV,45.0,male,lower extremity
+ISIC_2000126.jpg,BCC,60.0,male,anterior torso
+ISIC_2000127.jpg,SCC,80.0,male,anterior torso
+ISIC_2000128.jpg,ACK,70.0,male,head/neck
+ISIC_2000129.jpg,SEK,40.0,male,upper extremity
+ISIC_2000130.jpg,MEL,50.0,female,posterior torso
+ISIC_2000131.jpg,NEV,40.0,male,lower extremity
+ISIC_2000132.jpg,BCC,80.0,male,anterior torso
+ISIC_2000133.jpg,SCC,65.0,male,head/neck
+ISIC_2000134.jpg,ACK,60.0,female,anterior torso
+ISIC_2000135.jpg,SEK,40.0,female,upper extremity
+ISIC_2000136.jpg,MEL,60.0,male,posterior torso
+ISIC_2000137.jpg,NEV,50.0,male,anterior torso
+ISIC_2000138.jpg,BCC,65.0,female,head/neck
+ISIC_2000139.jpg,SCC,60.0,female,head/neck
+ISIC_2000140.jpg,ACK,60.0,male,anterior torso
+ISIC_2000141.jpg,SEK,50.0,male,lower extremity
+ISIC_2000142.jpg,MEL,45.0,female,posterior torso
+ISIC_2000143.jpg,NEV,35.0,female,upper extremity
+ISIC_2000144.jpg,BCC,60.0,male,head/neck
+ISIC_2000145.jpg,SCC,70.0,female,head/neck
+ISIC_2000146.jpg,ACK,65.0,male,head/neck
+ISIC_2000147.jpg,SEK,50.0,male,upper extremity
+ISIC_2000148.jpg,MEL,50.0,female,posterior torso
+ISIC_2000149.jpg,NEV,40.0,female,lower extremity
+ISIC_2000150.jpg,BCC,75.0,female,head/neck
+ISIC_2000151.jpg,SCC,60.0,female,head/neck
+ISIC_2000152.jpg,ACK,70.0,female,anterior torso
+ISIC_2000153.jpg,SEK,35.0,male,anterior torso
+ISIC_2000154.jpg,MEL,55.0,male,posterior torso
+ISIC_2000155.jpg,NEV,35.0,female,lower extremity
+ISIC_2000156.jpg,BCC,60.0,female,head/neck
+ISIC_2000157.jpg,SCC,75.0,female,head/neck
+ISIC_2000158.jpg,ACK,65.0,female,head/neck
+ISIC_2000159.jpg,SEK,30.0,female,anterior torso
+ISIC_2000160.jpg,MEL,65.0,male,lower extremity
+ISIC_2000161.jpg,NEV,30.0,female,lower extremity
+ISIC_2000162.jpg,BCC,75.0,female,anterior torso
+ISIC_2000163.jpg,SCC,60.0,female,head/neck
+ISIC_2000164.jpg,ACK,70.0,female,anterior torso
+ISIC_2000165.jpg,SEK,45.0,male,anterior torso
+ISIC_2000166.jpg,MEL,60.0,female,lower extremity
+ISIC_2000167.jpg,NEV,35.0,female,lower extremity
+ISIC_2000168.jpg,BCC,65.0,male,head/neck
+ISIC_2000169.jpg,SCC,65.0,male,head/neck
+ISIC_2000170.jpg,ACK,70.0,female,anterior torso
+ISIC_2000171.jpg,SEK,35.0,female,upper extremity
+ISIC_2000172.jpg,MEL,65.0,female,lower extremity
+ISIC_2000173.jpg,NEV,45.0,female,lower extremity
+ISIC_2000174.jpg,BCC,75.0,male,head/neck
+ISIC_2000175.jpg,SCC,65.0,male,head/neck
+ISIC_2000176.jpg,ACK,75.0,male,anterior torso
+ISIC_2000177.jpg,SEK,35.0,female,lower extremity
+ISIC_2000178.jpg,MEL,60.0,female,lower extremity
+ISIC_2000179.jpg,NEV,45.0,female,anterior torso

@@ -1,0 +1,361 @@
+img_id,diagnostic,age,gender,region,itch,grew,hurt,changed,bleed,elevation,smoke,drink,pesticide,diameter_1,diameter_2
+PAT_0000_0.png,BCC,64,MALE,head/neck,True,True,False,True,True,True,False,False,False,7.5,7.7
+PAT_0001_3.png,SCC,64,FEMALE,face,False,False,False,False,False,True,True,False,False,12.2,8.4
+PAT_0002_6.png,ACK,52,MALE,chest,False,False,False,False,False,False,True,True,False,4.9,7.6
+PAT_0003_9.png,SEK,26,MALE,chest,False,False,True,False,False,True,True,True,False,4.4,10.4
+PAT_0004_12.png,MEL,49,FEMALE,trunk,True,True,False,True,True,False,True,True,False,5.4,7.4
+PAT_0005_15.png,NEV,24,FEMALE,back,False,False,True,False,False,True,True,False,False,12.5,5.5
+PAT_0006_18.png,BCC,77,FEMALE,face,True,True,False,True,True,True,False,True,False,6.6,11.1
+PAT_0007_21.png,SCC,64,MALE,face,False,True,False,True,False,True,True,False,False,12.8,6.1
+PAT_0008_24.png,ACK,82,MALE,face,False,True,True,True,False,False,True,False,False,13.0,10.5
+PAT_0009_27.png,SEK,55,MALE,upper extremity,False,False,False,False,False,True,True,False,False,15.3,13.5
+PAT_0010_30.png,MEL,67,MALE,trunk,False,True,False,True,True,False,True,False,False,14.4,13.1
+PAT_0011_33.png,NEV,40,MALE,back,True,False,True,False,False,False,False,False,False,9.3,10.7
+PAT_0012_36.png,BCC,78,MALE,face,True,False,False,False,True,True,True,False,False,12.9,6.5
+PAT_0013_39.png,SCC,74,FEMALE,chest,False,True,False,True,False,True,False,True,False,7.4,13.5
+PAT_0014_42.png,ACK,72,FEMALE,head/neck,False,True,False,True,False,False,False,False,False,8.7,10.4
+PAT_0015_45.png,SEK,50,FEMALE,lower extremity,False,False,True,False,False,True,False,True,False,7.4,5.2
+PAT_0016_48.png,MEL,50,MALE,trunk,False,True,True,True,False,True,True,True,False,5.1,7.2
+PAT_0017_51.png,NEV,75,FEMALE,lower extremity,True,False,False,False,False,True,True,False,False,15.4,11.8
+PAT_0018_54.png,BCC,72,FEMALE,face,False,True,False,True,False,True,False,False,False,6.8,13.1
+PAT_0019_57.png,SCC,74,FEMALE,chest,True,True,True,True,False,True,True,True,False,4.1,8.7
+PAT_0020_60.png,ACK,64,MALE,face,False,True,False,True,False,False,True,False,False,15.5,4.6
+PAT_0021_63.png,SEK,75,FEMALE,upper extremity,True,False,True,False,False,True,True,True,False,15.3,8.2
+PAT_0022_66.png,MEL,77,MALE,lower extremity,False,True,False,True,False,True,True,True,False,9.4,5.3
+PAT_0023_69.png,NEV,51,MALE,head/neck,False,False,True,False,False,False,False,False,False,9.7,12.3
+PAT_0024_72.png,BCC,75,FEMALE,face,False,True,False,True,True,True,True,True,False,15.4,5.5
+PAT_0025_75.png,SCC,66,FEMALE,head/neck,True,True,True,True,False,True,True,False,False,8.1,9.4
+PAT_0026_78.png,ACK,65,MALE,chest,True,True,False,True,False,False,True,False,False,14.5,13.2
+PAT_0027_81.png,SEK,34,FEMALE,head/neck,True,False,True,False,False,True,True,True,False,14.7,9.1
+PAT_0028_84.png,MEL,84,FEMALE,lower extremity,False,True,False,True,True,True,True,False,False,10.0,7.3
+PAT_0029_87.png,NEV,70,MALE,upper extremity,False,False,True,False,False,False,True,False,False,14.8,4.8
+PAT_0030_90.png,BCC,70,FEMALE,face,False,True,True,True,True,True,False,True,False,15.2,7.2
+PAT_0031_93.png,SCC,46,FEMALE,chest,True,True,False,True,False,True,False,True,False,5.7,4.0
+PAT_0032_96.png,ACK,73,MALE,head/neck,False,True,False,True,False,False,False,False,False,9.3,7.8
+PAT_0033_99.png,SEK,27,FEMALE,upper extremity,True,False,False,False,False,True,True,False,False,13.0,11.1
+PAT_0034_102.png,MEL,44,FEMALE,lower extremity,False,True,False,True,True,False,False,False,False,11.4,13.1
+PAT_0035_105.png,NEV,28,FEMALE,upper extremity,False,False,False,False,False,True,False,True,False,15.1,11.1
+PAT_0036_108.png,BCC,61,MALE,face,False,True,False,True,False,True,True,False,False,8.2,7.5
+PAT_0037_111.png,SCC,73,MALE,head/neck,False,True,False,True,False,True,False,True,False,8.3,9.8
+PAT_0038_114.png,ACK,65,MALE,face,False,True,True,True,False,False,True,False,False,10.3,12.0
+PAT_0039_117.png,SEK,51,MALE,upper extremity,False,False,True,False,False,True,False,False,False,12.7,12.6
+PAT_0040_120.png,MEL,45,MALE,lower extremity,False,True,False,True,False,True,True,False,False,14.3,6.2
+PAT_0041_123.png,NEV,25,FEMALE,chest,True,False,False,False,False,False,True,False,False,12.9,11.0
+PAT_0042_126.png,BCC,76,MALE,chest,True,True,True,True,False,True,True,False,False,7.0,10.3
+PAT_0043_129.png,SCC,71,FEMALE,head/neck,False,True,True,True,False,True,True,True,False,5.0,10.0
+PAT_0044_132.png,ACK,61,FEMALE,head/neck,True,False,True,False,False,False,False,False,False,8.3,4.9
+PAT_0045_135.png,SEK,46,FEMALE,lower extremity,False,False,False,False,False,True,True,True,False,12.8,5.9
+PAT_0046_138.png,MEL,57,MALE,trunk,True,True,False,True,True,True,False,True,False,14.5,9.3
+PAT_0047_141.png,NEV,75,FEMALE,chest,False,False,False,False,False,True,True,False,False,12.9,6.4
+PAT_0048_144.png,BCC,74,MALE,head/neck,False,True,False,True,True,True,True,False,False,11.3,9.1
+PAT_0049_147.png,SCC,69,FEMALE,head/neck,True,False,True,False,False,True,True,True,False,11.2,9.3
+PAT_0050_150.png,ACK,72,FEMALE,face,False,False,True,False,False,False,False,False,False,12.3,4.5
+PAT_0051_153.png,SEK,65,MALE,lower extremity,True,False,False,False,False,True,False,False,False,11.4,11.5
+PAT_0052_156.png,MEL,51,FEMALE,lower extremity,False,True,False,True,False,False,False,True,False,15.2,5.0
+PAT_0053_159.png,NEV,51,MALE,trunk,False,False,True,False,False,False,False,False,False,8.2,10.2
+PAT_0054_162.png,BCC,58,FEMALE,chest,False,False,False,False,False,True,False,False,False,5.6,12.7
+PAT_0055_165.png,SCC,66,MALE,chest,True,False,False,False,False,True,True,True,False,7.8,11.2
+PAT_0056_168.png,ACK,56,MALE,face,False,True,True,True,False,False,False,True,False,7.2,12.0
+PAT_0057_171.png,SEK,57,FEMALE,head/neck,False,False,False,False,False,True,True,False,False,10.4,12.8
+PAT_0058_174.png,MEL,69,FEMALE,lower extremity,False,True,False,True,False,True,True,True,False,4.5,5.6
+PAT_0059_177.png,NEV,39,MALE,face,False,False,False,False,False,True,False,False,False,12.9,12.7
+PAT_0060_180.png,BCC,77,FEMALE,face,False,True,True,True,False,True,True,True,False,10.9,8.4
+PAT_0061_183.png,SCC,65,MALE,head/neck,True,True,True,True,False,True,True,False,False,8.6,8.7
+PAT_0062_186.png,ACK,68,MALE,head/neck,True,True,False,True,False,False,False,True,False,15.4,6.5
+PAT_0063_189.png,SEK,27,MALE,lower extremity,True,False,False,False,False,True,True,True,False,4.5,5.5
+PAT_0064_192.png,MEL,68,FEMALE,trunk,False,True,False,True,False,True,True,True,False,11.9,7.9
+PAT_0065_195.png,NEV,52,MALE,chest,True,False,False,False,False,True,True,True,False,5.1,6.9
+PAT_0066_198.png,BCC,78,MALE,chest,True,True,True,True,False,True,True,True,False,6.7,4.7
+PAT_0067_201.png,SCC,80,FEMALE,face,False,True,False,True,False,True,False,False,False,4.3,7.4
+PAT_0068_204.png,ACK,61,FEMALE,chest,True,False,False,False,False,False,False,False,False,12.6,8.0
+PAT_0069_207.png,SEK,32,MALE,trunk,True,False,False,False,False,True,True,False,False,11.1,11.9
+PAT_0070_210.png,MEL,72,MALE,lower extremity,True,True,False,True,True,True,False,False,False,5.6,11.0
+PAT_0071_213.png,NEV,73,FEMALE,head/neck,False,False,True,False,False,False,False,False,False,5.0,12.9
+PAT_0072_216.png,BCC,56,FEMALE,chest,False,False,False,False,True,True,False,True,False,6.1,10.9
+PAT_0073_219.png,SCC,57,MALE,chest,True,False,False,False,False,True,False,False,False,15.9,13.3
+PAT_0074_222.png,ACK,74,FEMALE,chest,True,True,False,True,False,False,False,True,False,8.8,9.4
+PAT_0075_225.png,SEK,48,FEMALE,head/neck,False,False,False,False,False,True,True,True,False,14.3,13.2
+PAT_0076_228.png,MEL,41,FEMALE,back,False,True,False,True,True,True,True,True,False,10.8,5.9
+PAT_0077_231.png,NEV,45,MALE,chest,True,False,True,False,False,True,False,False,False,7.2,5.8
+PAT_0078_234.png,BCC,75,MALE,head/neck,False,True,False,True,False,True,True,False,False,12.2,5.9
+PAT_0079_237.png,SCC,74,MALE,face,False,False,False,False,False,True,True,True,False,10.6,8.5
+PAT_0080_240.png,ACK,60,FEMALE,face,True,True,False,True,False,False,True,True,False,12.8,9.1
+PAT_0081_243.png,SEK,18,MALE,trunk,True,False,True,False,False,True,True,False,False,5.2,10.6
+PAT_0082_246.png,MEL,85,FEMALE,back,False,True,True,True,True,True,True,False,False,9.2,8.4
+PAT_0083_249.png,NEV,54,FEMALE,back,True,False,True,False,False,True,False,False,False,14.3,12.5
+PAT_0084_252.png,BCC,63,FEMALE,head/neck,False,True,False,True,True,True,True,True,False,11.1,9.1
+PAT_0085_255.png,SCC,70,MALE,face,False,False,False,False,False,True,False,False,False,7.0,11.3
+PAT_0086_258.png,ACK,62,MALE,head/neck,False,True,False,True,False,False,True,False,False,11.4,7.6
+PAT_0087_261.png,SEK,58,FEMALE,lower extremity,False,False,False,False,False,True,True,True,False,13.9,9.2
+PAT_0088_264.png,MEL,65,MALE,back,True,True,False,True,False,True,False,True,False,9.2,12.7
+PAT_0089_267.png,NEV,74,FEMALE,back,False,False,False,False,False,False,False,True,False,9.2,11.3
+PAT_0090_270.png,BCC,69,MALE,chest,True,True,False,True,True,True,True,True,False,8.2,13.0
+PAT_0091_273.png,SCC,66,FEMALE,chest,False,True,False,True,False,True,False,True,False,9.9,13.8
+PAT_0092_276.png,ACK,66,FEMALE,face,True,False,False,False,False,False,False,False,False,8.9,10.5
+PAT_0093_279.png,SEK,66,MALE,lower extremity,False,False,True,False,False,True,False,True,False,15.4,9.6
+PAT_0094_282.png,MEL,55,FEMALE,back,True,True,False,True,False,True,True,True,False,14.8,5.7
+PAT_0095_285.png,NEV,61,MALE,upper extremity,True,False,False,False,False,False,False,False,False,5.0,12.8
+PAT_0096_288.png,BCC,61,FEMALE,face,True,True,False,True,True,True,True,True,False,14.8,10.5
+PAT_0097_291.png,SCC,72,MALE,head/neck,False,True,False,True,False,True,False,True,False,6.9,5.4
+PAT_0098_294.png,ACK,76,MALE,head/neck,True,False,False,False,False,False,False,True,False,14.8,10.5
+PAT_0099_297.png,SEK,26,MALE,back,False,False,False,False,False,True,True,False,False,14.9,11.5
+PAT_0100_300.png,MEL,50,MALE,back,False,True,True,True,True,False,True,False,False,4.4,9.8
+PAT_0101_303.png,NEV,60,FEMALE,lower extremity,True,False,False,False,False,True,True,True,False,4.4,12.7
+PAT_0102_306.png,BCC,65,FEMALE,face,False,False,False,False,False,True,True,True,False,7.2,8.1
+PAT_0103_309.png,SCC,63,MALE,head/neck,False,False,False,False,False,True,True,True,False,9.7,10.2
+PAT_0104_312.png,ACK,65,FEMALE,chest,True,True,False,True,False,False,False,True,False,8.9,13.1
+PAT_0105_315.png,SEK,49,MALE,back,True,False,False,False,False,True,True,True,False,11.2,9.5
+PAT_0106_318.png,MEL,62,MALE,lower extremity,False,True,False,True,True,True,False,True,False,6.6,8.7
+PAT_0107_321.png,NEV,62,MALE,trunk,True,False,False,False,False,True,False,False,False,9.4,12.0
+PAT_0108_324.png,BCC,60,MALE,face,True,True,False,True,False,True,True,False,False,11.2,5.0
+PAT_0109_327.png,SCC,64,FEMALE,head/neck,True,True,True,True,False,True,True,False,False,4.3,9.1
+PAT_0110_330.png,ACK,80,MALE,chest,False,False,False,False,False,False,True,True,False,6.1,9.1
+PAT_0111_333.png,SEK,52,FEMALE,chest,True,False,False,False,False,True,True,False,False,10.4,12.7
+PAT_0112_336.png,MEL,84,FEMALE,lower extremity,True,True,True,True,False,True,False,True,False,9.3,12.5
+PAT_0113_339.png,NEV,29,MALE,back,True,False,True,False,False,True,False,False,False,12.3,11.2
+PAT_0114_342.png,BCC,72,FEMALE,face,False,True,False,True,True,True,True,False,False,12.4,5.0
+PAT_0115_345.png,SCC,73,MALE,head/neck,True,True,False,True,False,True,False,False,False,10.9,11.0
+PAT_0116_348.png,ACK,78,MALE,head/neck,True,True,False,True,False,False,False,False,False,13.9,9.5
+PAT_0117_351.png,SEK,27,FEMALE,head/neck,False,False,False,False,False,True,True,False,False,14.1,4.0
+PAT_0118_354.png,MEL,62,MALE,trunk,True,True,False,True,True,True,True,False,False,7.2,8.8
+PAT_0119_357.png,NEV,34,MALE,upper extremity,True,False,False,False,False,False,False,False,False,8.4,7.7
+PAT_0120_360.png,BCC,69,FEMALE,head/neck,True,True,False,True,True,True,True,True,False,5.3,9.2
+PAT_0121_363.png,SCC,65,FEMALE,head/neck,False,False,True,False,False,True,True,True,False,8.0,13.1
+PAT_0122_366.png,ACK,70,MALE,chest,True,False,True,False,False,False,True,False,False,5.8,13.0
+PAT_0123_369.png,SEK,60,MALE,trunk,True,False,True,False,False,True,True,False,False,11.6,7.9
+PAT_0124_372.png,MEL,25,FEMALE,back,False,True,False,True,False,True,False,True,False,5.6,13.9
+PAT_0125_375.png,NEV,72,FEMALE,upper extremity,False,False,False,False,False,True,True,False,False,10.3,6.2
+PAT_0126_378.png,BCC,59,FEMALE,chest,False,True,False,True,False,True,False,False,False,4.1,4.1
+PAT_0127_381.png,SCC,62,FEMALE,head/neck,True,True,False,True,False,True,True,False,False,9.1,4.3
+PAT_0128_384.png,ACK,61,FEMALE,face,False,True,True,True,False,False,True,False,False,11.0,8.4
+PAT_0129_387.png,SEK,59,MALE,back,True,False,True,False,False,True,True,True,False,10.1,8.1
+PAT_0130_390.png,MEL,66,FEMALE,trunk,False,True,False,True,True,False,True,False,False,13.8,5.8
+PAT_0131_393.png,NEV,69,MALE,trunk,False,False,False,False,False,True,True,False,False,13.4,9.8
+PAT_0132_396.png,BCC,64,MALE,head/neck,False,False,False,False,False,True,False,True,False,14.3,11.0
+PAT_0133_399.png,SCC,75,MALE,head/neck,False,True,True,True,False,True,False,False,False,11.4,12.4
+PAT_0134_402.png,ACK,56,MALE,head/neck,False,True,True,True,False,False,False,True,False,10.9,12.3
+PAT_0135_405.png,SEK,64,MALE,back,True,False,True,False,False,True,True,True,False,15.3,10.4
+PAT_0136_408.png,MEL,43,FEMALE,lower extremity,False,True,True,True,True,True,False,False,False,15.6,10.0
+PAT_0137_411.png,NEV,48,FEMALE,trunk,False,False,False,False,False,True,False,True,False,11.8,6.7
+PAT_0138_414.png,BCC,72,MALE,head/neck,True,True,False,True,True,True,True,True,False,9.4,13.6
+PAT_0139_417.png,SCC,78,MALE,face,False,True,False,True,False,True,False,True,False,5.0,12.1
+PAT_0140_420.png,ACK,54,FEMALE,chest,True,False,False,False,False,False,True,True,False,10.5,6.0
+PAT_0141_423.png,SEK,68,FEMALE,head/neck,True,False,False,False,False,True,False,False,False,13.9,6.9
+PAT_0142_426.png,MEL,74,FEMALE,trunk,False,True,False,True,True,True,True,True,False,8.2,12.3
+PAT_0143_429.png,NEV,44,FEMALE,head/neck,False,False,False,False,False,True,True,True,False,5.2,7.9
+PAT_0144_432.png,BCC,66,FEMALE,face,True,True,False,True,False,True,False,False,False,5.9,4.8
+PAT_0145_435.png,SCC,48,FEMALE,head/neck,True,True,True,True,False,True,True,True,False,8.7,6.3
+PAT_0146_438.png,ACK,70,MALE,chest,True,True,False,True,False,False,True,False,False,13.5,4.7
+PAT_0147_441.png,SEK,41,FEMALE,lower extremity,False,False,False,False,False,True,False,True,False,7.4,6.1
+PAT_0148_444.png,MEL,70,FEMALE,trunk,True,True,True,True,False,True,False,True,False,11.0,8.3
+PAT_0149_447.png,NEV,41,MALE,upper extremity,True,False,False,False,False,True,True,False,False,8.7,5.6
+PAT_0150_450.png,BCC,57,MALE,face,False,True,False,True,False,True,False,False,False,9.2,9.5
+PAT_0151_453.png,SCC,68,MALE,head/neck,False,True,False,True,False,True,False,True,False,13.3,12.2
+PAT_0152_456.png,ACK,64,FEMALE,head/neck,False,False,False,False,False,False,False,True,False,15.2,12.0
+PAT_0153_459.png,SEK,58,MALE,trunk,False,False,False,False,False,True,True,False,False,8.7,4.7
+PAT_0154_462.png,MEL,40,MALE,lower extremity,True,True,False,True,False,False,True,True,False,4.8,9.5
+PAT_0155_465.png,NEV,71,FEMALE,upper extremity,False,False,False,False,False,False,True,False,False,6.0,4.2
+PAT_0156_468.png,BCC,64,FEMALE,chest,False,True,True,True,False,True,False,False,False,14.6,12.8
+PAT_0157_471.png,SCC,69,FEMALE,chest,False,False,False,False,False,True,True,True,False,4.4,13.0
+PAT_0158_474.png,ACK,64,FEMALE,face,False,True,True,True,False,False,True,False,False,12.1,4.6
+PAT_0159_477.png,SEK,40,FEMALE,trunk,False,False,True,False,False,True,True,True,False,9.3,13.8
+PAT_0160_480.png,MEL,25,FEMALE,lower extremity,False,True,True,True,True,True,True,False,False,9.0,9.1
+PAT_0161_483.png,NEV,24,MALE,trunk,False,False,False,False,False,True,True,False,False,6.8,9.5
+PAT_0162_486.png,BCC,62,MALE,face,False,False,False,False,True,True,True,True,False,7.0,9.2
+PAT_0163_489.png,SCC,66,FEMALE,head/neck,True,True,True,True,False,True,False,True,False,10.7,6.0
+PAT_0164_492.png,ACK,77,MALE,face,False,False,True,False,False,False,False,True,False,9.6,11.7
+PAT_0165_495.png,SEK,44,MALE,face,True,False,True,False,False,True,False,True,False,11.6,10.0
+PAT_0166_498.png,MEL,63,FEMALE,lower extremity,True,True,True,True,True,True,False,True,False,9.4,9.0
+PAT_0167_501.png,NEV,44,FEMALE,trunk,True,False,True,False,False,True,True,False,False,13.4,8.6
+PAT_0168_504.png,BCC,70,MALE,head/neck,False,True,True,True,True,True,True,False,False,14.8,7.4
+PAT_0169_507.png,SCC,69,FEMALE,chest,False,True,False,True,False,True,False,True,False,5.0,6.5
+PAT_0170_510.png,ACK,67,MALE,chest,False,True,True,True,False,False,True,True,False,6.6,13.9
+PAT_0171_513.png,SEK,55,FEMALE,chest,True,False,False,False,False,True,True,True,False,7.6,13.3
+PAT_0172_516.png,MEL,60,FEMALE,trunk,True,True,False,True,False,True,False,True,False,10.4,9.4
+PAT_0173_519.png,NEV,50,MALE,back,False,False,True,False,False,False,True,False,False,10.7,6.3
+PAT_0174_522.png,BCC,65,MALE,face,False,True,True,True,True,True,True,True,False,10.0,8.3
+PAT_0175_525.png,SCC,70,MALE,head/neck,True,True,True,True,False,True,True,True,False,15.7,13.7
+PAT_0176_528.png,ACK,57,MALE,chest,False,True,False,True,False,False,False,True,False,10.8,8.4
+PAT_0177_531.png,SEK,57,FEMALE,face,False,False,True,False,False,True,True,False,False,10.9,7.9
+PAT_0178_534.png,MEL,56,FEMALE,trunk,True,True,True,True,True,True,False,True,False,9.3,7.3
+PAT_0179_537.png,NEV,39,FEMALE,upper extremity,True,False,True,False,False,True,False,False,False,8.9,10.8
+PAT_0180_540.png,BCC,71,FEMALE,head/neck,True,True,False,True,False,True,False,True,False,15.9,13.8
+PAT_0181_543.png,SCC,84,FEMALE,head/neck,False,True,False,True,False,True,False,False,False,6.4,13.3
+PAT_0182_546.png,ACK,73,MALE,face,False,True,True,True,False,False,True,False,False,5.6,10.1
+PAT_0183_549.png,SEK,47,MALE,lower extremity,False,False,False,False,False,True,False,True,False,4.3,7.6
+PAT_0184_552.png,MEL,71,FEMALE,back,False,True,False,True,True,True,True,False,False,5.5,5.3
+PAT_0185_555.png,NEV,70,FEMALE,chest,True,False,True,False,False,False,True,True,False,4.2,7.2
+PAT_0186_558.png,BCC,67,FEMALE,face,False,True,False,True,False,True,True,False,False,9.7,7.2
+PAT_0187_561.png,SCC,70,FEMALE,chest,True,True,False,True,False,True,False,False,False,10.9,6.6
+PAT_0188_564.png,ACK,83,MALE,head/neck,False,True,True,True,False,False,True,False,False,10.5,5.4
+PAT_0189_567.png,SEK,47,FEMALE,chest,False,False,False,False,False,True,True,False,False,13.8,8.7
+PAT_0190_570.png,MEL,61,FEMALE,trunk,True,True,True,True,False,True,False,True,False,5.2,5.2
+PAT_0191_573.png,NEV,33,MALE,trunk,True,False,False,False,False,True,True,True,False,10.3,7.2
+PAT_0192_576.png,BCC,48,MALE,head/neck,False,False,False,False,True,True,False,False,False,4.3,13.8
+PAT_0193_579.png,SCC,60,MALE,chest,True,True,True,True,False,True,False,True,False,6.3,8.6
+PAT_0194_582.png,ACK,74,MALE,chest,True,True,False,True,False,False,True,True,False,6.2,6.0
+PAT_0195_585.png,SEK,39,FEMALE,chest,True,False,False,False,False,True,True,False,False,7.1,5.1
+PAT_0196_588.png,MEL,51,MALE,lower extremity,False,True,False,True,False,True,True,True,False,9.0,4.2
+PAT_0197_591.png,NEV,39,FEMALE,back,False,False,True,False,False,False,True,True,False,6.0,4.5
+PAT_0198_594.png,BCC,72,FEMALE,head/neck,True,False,False,False,False,True,False,True,False,4.8,5.8
+PAT_0199_597.png,SCC,63,MALE,head/neck,False,True,False,True,False,True,False,False,False,12.1,8.0
+PAT_0200_600.png,ACK,77,MALE,chest,True,True,False,True,False,False,True,True,False,12.8,10.1
+PAT_0201_603.png,SEK,38,MALE,trunk,True,False,False,False,False,True,False,True,False,11.5,9.5
+PAT_0202_606.png,MEL,84,MALE,back,True,True,False,True,False,True,False,False,False,12.6,9.8
+PAT_0203_609.png,NEV,69,MALE,face,False,False,False,False,False,True,False,True,False,5.8,12.9
+PAT_0204_612.png,BCC,64,FEMALE,face,True,True,False,True,True,True,False,False,False,6.5,13.8
+PAT_0205_615.png,SCC,57,MALE,chest,False,True,False,True,False,True,True,True,False,6.2,13.7
+PAT_0206_618.png,ACK,60,FEMALE,head/neck,True,True,False,True,False,False,True,True,False,14.3,12.6
+PAT_0207_621.png,SEK,47,FEMALE,trunk,False,False,False,False,False,True,True,True,False,5.6,11.1
+PAT_0208_624.png,MEL,48,FEMALE,lower extremity,True,True,True,True,True,True,True,True,False,14.3,6.3
+PAT_0209_627.png,NEV,35,FEMALE,lower extremity,False,False,False,False,False,False,True,True,False,4.7,6.6
+PAT_0210_630.png,BCC,72,FEMALE,head/neck,False,True,True,True,False,True,False,True,False,11.9,11.5
+PAT_0211_633.png,SCC,64,FEMALE,chest,True,True,False,True,False,True,True,False,False,4.0,13.2
+PAT_0212_636.png,ACK,74,FEMALE,face,False,True,False,True,False,False,True,True,False,12.1,9.1
+PAT_0213_639.png,SEK,34,MALE,lower extremity,False,False,False,False,False,True,True,True,False,8.8,6.3
+PAT_0214_642.png,MEL,61,MALE,back,False,True,True,True,True,False,False,True,False,4.5,12.6
+PAT_0215_645.png,NEV,39,FEMALE,head/neck,True,False,False,False,False,False,False,True,False,4.2,12.0
+PAT_0216_648.png,BCC,60,FEMALE,face,True,True,True,True,True,True,True,False,False,6.5,6.6
+PAT_0217_651.png,SCC,71,MALE,chest,True,True,True,True,False,True,True,False,False,5.3,13.8
+PAT_0218_654.png,ACK,70,MALE,face,True,True,True,True,False,False,True,True,False,7.6,10.4
+PAT_0219_657.png,SEK,30,FEMALE,back,True,False,True,False,False,True,True,True,False,4.1,8.8
+PAT_0220_660.png,MEL,68,FEMALE,trunk,True,True,False,True,True,True,False,False,False,9.8,10.9
+PAT_0221_663.png,NEV,51,MALE,head/neck,False,False,False,False,False,True,True,False,False,8.1,8.3
+PAT_0222_666.png,BCC,72,MALE,chest,False,True,True,True,True,True,False,True,False,5.3,9.3
+PAT_0223_669.png,SCC,62,MALE,head/neck,False,True,True,True,False,True,False,False,False,5.5,6.1
+PAT_0224_672.png,ACK,71,FEMALE,chest,False,True,False,True,False,False,False,True,False,14.2,4.8
+PAT_0225_675.png,SEK,67,FEMALE,head/neck,True,False,False,False,False,True,False,True,False,12.6,13.3
+PAT_0226_678.png,MEL,52,FEMALE,trunk,False,True,False,True,True,True,True,False,False,6.4,12.1
+PAT_0227_681.png,NEV,18,FEMALE,head/neck,True,False,True,False,False,True,False,True,False,14.7,7.9
+PAT_0228_684.png,BCC,62,FEMALE,head/neck,False,False,False,False,False,True,True,False,False,8.8,8.2
+PAT_0229_687.png,SCC,63,MALE,face,True,True,False,True,False,True,False,True,False,14.3,7.5
+PAT_0230_690.png,ACK,60,MALE,head/neck,False,False,False,False,False,False,True,True,False,8.1,12.5
+PAT_0231_693.png,SEK,44,FEMALE,back,True,False,True,False,False,True,True,True,False,13.1,10.8
+PAT_0232_696.png,MEL,25,FEMALE,back,False,True,True,True,True,True,True,False,False,9.9,12.1
+PAT_0233_699.png,NEV,50,MALE,lower extremity,False,False,True,False,False,False,True,False,False,7.7,8.0
+PAT_0234_702.png,BCC,80,FEMALE,face,False,True,True,True,False,True,False,False,False,8.4,10.6
+PAT_0235_705.png,SCC,55,MALE,head/neck,False,True,False,True,False,True,False,False,False,12.4,8.1
+PAT_0236_708.png,ACK,50,FEMALE,chest,True,False,True,False,False,False,False,True,False,13.9,7.1
+PAT_0237_711.png,SEK,69,MALE,head/neck,True,False,True,False,False,True,False,False,False,7.1,7.5
+PAT_0238_714.png,MEL,70,FEMALE,lower extremity,False,True,False,True,False,True,True,False,False,7.2,8.7
+PAT_0239_717.png,NEV,22,FEMALE,lower extremity,True,False,False,False,False,True,False,True,False,12.8,7.6
+PAT_0240_720.png,BCC,71,FEMALE,head/neck,False,True,True,True,True,True,False,True,False,14.2,9.0
+PAT_0241_723.png,SCC,65,MALE,face,True,True,False,True,False,True,True,False,False,13.3,5.7
+PAT_0242_726.png,ACK,76,FEMALE,chest,False,False,False,False,False,False,True,False,False,11.9,7.9
+PAT_0243_729.png,SEK,51,FEMALE,chest,True,False,False,False,False,True,True,True,False,7.8,8.9
+PAT_0244_732.png,MEL,33,MALE,trunk,False,True,True,True,True,True,False,True,False,8.9,11.0
+PAT_0245_735.png,NEV,46,MALE,trunk,True,False,True,False,False,False,False,True,False,7.2,9.1
+PAT_0246_738.png,BCC,63,MALE,head/neck,True,False,True,False,True,True,True,True,False,10.8,9.3
+PAT_0247_741.png,SCC,75,FEMALE,face,True,True,True,True,False,True,False,False,False,12.6,8.4
+PAT_0248_744.png,ACK,63,MALE,head/neck,True,True,False,True,False,False,True,False,False,10.5,5.3
+PAT_0249_747.png,SEK,60,MALE,head/neck,True,False,True,False,False,True,True,True,False,13.9,13.7
+PAT_0250_750.png,MEL,31,MALE,trunk,True,True,False,True,True,False,False,False,False,12.4,8.6
+PAT_0251_753.png,NEV,52,FEMALE,head/neck,False,False,False,False,False,False,True,False,False,15.0,13.8
+PAT_0252_756.png,BCC,90,FEMALE,head/neck,True,False,False,False,True,True,False,False,False,5.2,13.1
+PAT_0253_759.png,SCC,68,FEMALE,face,False,True,False,True,False,True,False,False,False,6.3,5.8
+PAT_0254_762.png,ACK,68,MALE,face,False,True,False,True,False,False,False,True,False,13.4,11.0
+PAT_0255_765.png,SEK,54,MALE,chest,False,False,True,False,False,True,False,True,False,15.0,6.1
+PAT_0256_768.png,MEL,52,FEMALE,lower extremity,True,True,True,True,True,False,True,True,False,6.7,9.5
+PAT_0257_771.png,NEV,68,FEMALE,back,True,False,False,False,False,False,False,False,False,10.2,5.1
+PAT_0258_774.png,BCC,71,MALE,chest,False,False,False,False,True,True,False,False,False,15.8,13.9
+PAT_0259_777.png,SCC,45,FEMALE,chest,False,False,False,False,False,True,True,False,False,9.3,7.1
+PAT_0260_780.png,ACK,74,MALE,face,False,False,False,False,False,False,True,False,False,6.8,4.8
+PAT_0261_783.png,SEK,38,MALE,back,False,False,False,False,False,True,True,True,False,14.9,5.4
+PAT_0262_786.png,MEL,77,FEMALE,back,False,True,False,True,False,True,True,True,False,9.4,7.5
+PAT_0263_789.png,NEV,68,FEMALE,trunk,True,False,False,False,False,False,True,True,False,4.2,10.9
+PAT_0264_792.png,BCC,62,MALE,face,False,True,False,True,False,True,True,True,False,9.9,6.0
+PAT_0265_795.png,SCC,67,MALE,head/neck,False,True,True,True,False,True,False,False,False,14.9,4.0
+PAT_0266_798.png,ACK,77,FEMALE,head/neck,True,False,False,False,False,False,True,False,False,15.8,10.7
+PAT_0267_801.png,SEK,46,FEMALE,face,True,False,True,False,False,True,False,False,False,8.7,11.3
+PAT_0268_804.png,MEL,41,FEMALE,trunk,True,True,False,True,False,True,False,False,False,14.8,13.1
+PAT_0269_807.png,NEV,53,MALE,back,False,False,True,False,False,False,True,True,False,6.2,9.7
+PAT_0270_810.png,BCC,70,FEMALE,face,True,True,False,True,True,True,False,True,False,5.8,10.5
+PAT_0271_813.png,SCC,72,MALE,face,False,True,False,True,False,True,False,False,False,7.2,4.3
+PAT_0272_816.png,ACK,76,MALE,head/neck,False,True,False,True,False,False,False,True,False,9.1,5.6
+PAT_0273_819.png,SEK,35,FEMALE,chest,False,False,False,False,False,True,False,True,False,12.7,13.2
+PAT_0274_822.png,MEL,51,MALE,trunk,False,True,False,True,False,True,False,True,False,8.1,9.6
+PAT_0275_825.png,NEV,22,MALE,chest,False,False,False,False,False,False,True,True,False,7.4,6.7
+PAT_0276_828.png,BCC,68,MALE,chest,True,True,True,True,True,True,True,False,False,6.3,7.1
+PAT_0277_831.png,SCC,79,MALE,chest,False,False,False,False,False,True,True,False,False,14.5,11.8
+PAT_0278_834.png,ACK,56,FEMALE,chest,False,True,True,True,False,False,True,True,False,4.7,12.4
+PAT_0279_837.png,SEK,44,MALE,chest,True,False,False,False,False,True,False,True,False,15.0,4.9
+PAT_0280_840.png,MEL,60,MALE,lower extremity,False,True,True,True,False,True,True,False,False,15.5,4.7
+PAT_0281_843.png,NEV,40,MALE,upper extremity,False,False,False,False,False,True,True,False,False,8.2,8.2
+PAT_0282_846.png,BCC,85,FEMALE,face,False,True,False,True,True,True,False,True,False,6.3,8.6
+PAT_0283_849.png,SCC,75,FEMALE,face,True,False,False,False,False,True,True,True,False,14.0,13.6
+PAT_0284_852.png,ACK,65,FEMALE,chest,False,True,False,True,False,False,True,True,False,4.2,7.6
+PAT_0285_855.png,SEK,71,MALE,face,True,False,False,False,False,True,False,True,False,6.8,13.8
+PAT_0286_858.png,MEL,25,MALE,trunk,False,True,False,True,True,True,False,True,False,11.6,6.6
+PAT_0287_861.png,NEV,75,FEMALE,upper extremity,True,False,False,False,False,False,False,False,False,14.9,6.1
+PAT_0288_864.png,BCC,66,FEMALE,chest,False,True,False,True,False,True,True,False,False,9.3,13.2
+PAT_0289_867.png,SCC,61,FEMALE,chest,False,True,False,True,False,True,True,True,False,13.0,6.1
+PAT_0290_870.png,ACK,60,MALE,chest,False,True,False,True,False,False,False,False,False,9.2,6.9
+PAT_0291_873.png,SEK,61,MALE,head/neck,False,False,False,False,False,True,False,True,False,15.4,11.3
+PAT_0292_876.png,MEL,35,MALE,trunk,True,True,True,True,True,True,True,True,False,6.4,4.8
+PAT_0293_879.png,NEV,41,FEMALE,chest,False,False,False,False,False,False,True,True,False,12.2,4.5
+PAT_0294_882.png,BCC,76,FEMALE,head/neck,True,True,True,True,False,True,True,True,False,14.4,9.0
+PAT_0295_885.png,SCC,64,FEMALE,face,False,False,False,False,False,True,True,True,False,10.7,9.0
+PAT_0296_888.png,ACK,58,MALE,head/neck,False,True,False,True,False,False,True,False,False,10.7,4.1
+PAT_0297_891.png,SEK,52,FEMALE,chest,False,False,True,False,False,True,True,True,False,11.0,9.3
+PAT_0298_894.png,MEL,85,MALE,back,False,True,False,True,False,True,True,True,False,8.9,5.4
+PAT_0299_897.png,NEV,30,FEMALE,lower extremity,False,False,False,False,False,True,True,True,False,11.2,11.0
+PAT_0300_900.png,BCC,71,MALE,face,True,False,False,False,False,True,False,True,False,15.2,7.9
+PAT_0301_903.png,SCC,81,MALE,chest,True,True,False,True,False,True,False,True,False,7.0,9.6
+PAT_0302_906.png,ACK,76,MALE,face,True,False,False,False,False,False,False,True,False,5.2,6.3
+PAT_0303_909.png,SEK,43,MALE,lower extremity,False,False,True,False,False,True,False,False,False,5.1,13.6
+PAT_0304_912.png,MEL,32,FEMALE,back,True,True,False,True,False,True,True,True,False,6.1,13.2
+PAT_0305_915.png,NEV,36,FEMALE,back,False,False,False,False,False,True,True,True,False,7.2,6.9
+PAT_0306_918.png,BCC,62,FEMALE,chest,True,False,False,False,True,True,True,False,False,7.6,8.0
+PAT_0307_921.png,SCC,55,MALE,face,False,True,True,True,False,True,True,False,False,6.6,8.6
+PAT_0308_924.png,ACK,72,FEMALE,head/neck,False,True,False,True,False,False,False,False,False,14.2,7.9
+PAT_0309_927.png,SEK,39,MALE,lower extremity,False,False,True,False,False,True,False,True,False,15.2,13.1
+PAT_0310_930.png,MEL,42,FEMALE,back,False,True,True,True,True,False,False,False,False,7.2,11.7
+PAT_0311_933.png,NEV,67,FEMALE,trunk,False,False,False,False,False,False,False,True,False,10.1,8.6
+PAT_0312_936.png,BCC,73,FEMALE,chest,True,True,True,True,True,True,False,True,False,11.8,7.8
+PAT_0313_939.png,SCC,63,FEMALE,chest,False,False,True,False,False,True,False,False,False,14.5,9.5
+PAT_0314_942.png,ACK,66,FEMALE,chest,False,True,False,True,False,False,True,True,False,7.5,7.8
+PAT_0315_945.png,SEK,74,FEMALE,back,True,False,False,False,False,True,False,True,False,14.1,7.0
+PAT_0316_948.png,MEL,69,MALE,lower extremity,True,True,False,True,True,True,True,False,False,6.3,9.0
+PAT_0317_951.png,NEV,40,FEMALE,face,True,False,False,False,False,False,True,True,False,12.4,8.0
+PAT_0318_954.png,BCC,79,MALE,face,False,False,False,False,False,True,True,True,False,9.6,6.7
+PAT_0319_957.png,SCC,62,MALE,face,False,True,True,True,False,True,True,False,False,9.2,10.3
+PAT_0320_960.png,ACK,77,FEMALE,chest,False,True,True,True,False,False,True,False,False,10.3,6.8
+PAT_0321_963.png,SEK,36,FEMALE,upper extremity,True,False,False,False,False,True,False,True,False,6.3,9.2
+PAT_0322_966.png,MEL,63,FEMALE,trunk,True,True,False,True,False,False,True,False,False,10.9,4.5
+PAT_0323_969.png,NEV,54,FEMALE,face,True,False,True,False,False,False,True,True,False,14.7,6.7
+PAT_0324_972.png,BCC,76,FEMALE,head/neck,False,True,False,True,True,True,False,False,False,10.0,6.3
+PAT_0325_975.png,SCC,63,MALE,head/neck,False,True,False,True,False,True,True,True,False,9.8,9.0
+PAT_0326_978.png,ACK,77,MALE,face,True,True,False,True,False,False,True,False,False,9.3,9.4
+PAT_0327_981.png,SEK,75,FEMALE,back,True,False,False,False,False,True,False,False,False,14.9,5.2
+PAT_0328_984.png,MEL,50,FEMALE,lower extremity,False,True,True,True,True,False,False,False,False,4.9,10.6
+PAT_0329_987.png,NEV,18,FEMALE,back,True,False,True,False,False,True,True,True,False,6.5,9.0
+PAT_0330_990.png,BCC,67,FEMALE,chest,True,True,False,True,True,True,True,True,False,7.6,7.6
+PAT_0331_993.png,SCC,66,FEMALE,head/neck,True,True,False,True,False,True,True,False,False,13.8,11.4
+PAT_0332_996.png,ACK,70,MALE,face,True,True,True,True,False,False,False,False,False,5.8,12.6
+PAT_0333_999.png,SEK,44,FEMALE,back,True,False,False,False,False,True,True,False,False,13.7,9.4
+PAT_0334_1002.png,MEL,49,FEMALE,trunk,True,True,False,True,False,True,False,False,False,9.0,8.7
+PAT_0335_1005.png,NEV,60,FEMALE,chest,True,False,True,False,False,False,True,False,False,6.3,6.1
+PAT_0336_1008.png,BCC,74,FEMALE,chest,True,True,False,True,True,True,True,True,False,5.1,6.9
+PAT_0337_1011.png,SCC,57,MALE,head/neck,False,True,False,True,False,True,True,True,False,14.4,12.3
+PAT_0338_1014.png,ACK,63,MALE,face,True,True,True,True,False,False,False,True,False,10.5,12.3
+PAT_0339_1017.png,SEK,35,FEMALE,head/neck,True,False,False,False,False,True,True,False,False,8.4,9.1
+PAT_0340_1020.png,MEL,64,FEMALE,lower extremity,True,True,True,True,False,True,False,True,False,7.0,12.3
+PAT_0341_1023.png,NEV,41,MALE,chest,True,False,True,False,False,True,True,False,False,10.3,12.1
+PAT_0342_1026.png,BCC,67,MALE,chest,False,False,True,False,True,True,True,True,False,10.4,10.8
+PAT_0343_1029.png,SCC,74,MALE,head/neck,True,False,False,False,False,True,True,False,False,14.6,12.1
+PAT_0344_1032.png,ACK,69,MALE,face,True,False,False,False,False,False,False,False,False,5.7,8.1
+PAT_0345_1035.png,SEK,65,MALE,head/neck,False,False,True,False,False,True,False,False,False,11.7,5.2
+PAT_0346_1038.png,MEL,65,MALE,lower extremity,False,True,False,True,True,False,False,False,False,10.2,13.3
+PAT_0347_1041.png,NEV,54,MALE,trunk,False,False,False,False,False,True,False,True,False,5.1,11.7
+PAT_0348_1044.png,BCC,64,MALE,chest,True,True,False,True,True,True,True,True,False,8.4,6.4
+PAT_0349_1047.png,SCC,66,MALE,face,False,True,False,True,False,True,True,False,False,5.3,9.7
+PAT_0350_1050.png,ACK,71,FEMALE,face,True,False,False,False,False,False,False,False,False,15.5,10.0
+PAT_0351_1053.png,SEK,34,FEMALE,lower extremity,True,False,False,False,False,True,True,False,False,8.1,12.0
+PAT_0352_1056.png,MEL,44,FEMALE,trunk,False,True,False,True,True,False,False,True,False,9.0,10.2
+PAT_0353_1059.png,NEV,42,MALE,chest,True,False,False,False,False,True,False,True,False,10.5,11.2
+PAT_0354_1062.png,BCC,62,FEMALE,head/neck,True,True,False,True,True,True,False,True,False,15.0,5.2
+PAT_0355_1065.png,SCC,67,FEMALE,face,True,True,True,True,False,True,True,True,False,6.4,4.6
+PAT_0356_1068.png,ACK,64,FEMALE,chest,False,True,False,True,False,False,True,True,False,4.9,11.1
+PAT_0357_1071.png,SEK,27,MALE,face,False,False,False,False,False,True,False,True,False,9.7,10.4
+PAT_0358_1074.png,MEL,25,MALE,back,True,True,False,True,True,True,True,False,False,15.9,11.9
+PAT_0359_1077.png,NEV,41,MALE,head/neck,False,False,False,False,False,True,False,True,False,15.0,12.8

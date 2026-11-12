@@ -1,0 +1,2 @@
+dataset,backbone,fusion,acc,bacc,auc,mel_auc
+isic_2019,resnet50,attention,0.9777777777777777,0.9777777777777779,1.0,1.0
